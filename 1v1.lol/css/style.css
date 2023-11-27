@@ -38,14 +38,14 @@ canvas + * {
 
 .progress {
 	margin: 1.5em;
-	border: 1px solid white;
+	border: 1px solid red;
 	width: 30vw;
 	display: none;
 }
 
 .progress .full {
 	margin: 2px;
-	background: white;
+	background: red;
 	height: 1em;
 	transform-origin: top left;
 }
