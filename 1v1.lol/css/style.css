@@ -38,15 +38,15 @@ canvas + * {
 
 .progress {
 	margin: 1.5em;
-	border: 1px solid red;
-	width: 30vw;
+	border: 70px solid red;
+	width: 99vw;
 	display: none;
 }
 
 .progress .full {
 	margin: 2px;
 	background: red;
-	height: 1em;
+	height: 2em;
 	transform-origin: top left;
 }
 
@@ -65,8 +65,8 @@ canvas + * {
 .spinner,
 .spinner:after {
 	border-radius: 50%;
-	width: 5em;
-	height: 5em;
+	width: 20em;
+	height: 20em;
 }
 
 .spinner {
